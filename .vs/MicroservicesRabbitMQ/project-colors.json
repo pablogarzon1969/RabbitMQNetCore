@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd575f0c-fb96-4395-99bd-c1b891685172": {
+      "ProjectGuid": "dd575f0c-fb96-4395-99bd-c1b891685172",
+      "DisplayName": "MicroRabbit.Domain.Core",
+      "ColorIndex": 0
+    },
+    "f2f0ee5b-9c64-4625-ad10-7d0239b74850": {
+      "ProjectGuid": "f2f0ee5b-9c64-4625-ad10-7d0239b74850",
+      "DisplayName": "MicroRabbit.Infra.Bus",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.deps.json
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net6.0\ref\MicroRabbit.Infra.Bus.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.AssemblyReference.cache
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.CopyComplete
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\ref\MicroRabbit.Infra.Bus.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.pdb

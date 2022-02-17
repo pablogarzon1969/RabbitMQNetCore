@@ -1,0 +1,11 @@
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\bin\Debug\net6.0\MicroRabbit-Banking.Data.deps.json
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\bin\Debug\net6.0\MicroRabbit-Banking.Data.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\bin\Debug\net6.0\ref\MicroRabbit-Banking.Data.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\bin\Debug\net6.0\MicroRabbit-Banking.Data.pdb
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\MicroRabbit-Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\MicroRabbit-Banking.Data.AssemblyInfoInputs.cache
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\MicroRabbit-Banking.Data.AssemblyInfo.cs
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\MicroRabbit-Banking.Data.csproj.CoreCompileInputs.cache
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\MicroRabbit-Banking.Data.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\ref\MicroRabbit-Banking.Data.dll
+D:\Desarrollo\NetCore\Microservice-Rabiitmq\MicroservicesRabbitMQ\MicroRabbit-Banking.Data\obj\Debug\net6.0\MicroRabbit-Banking.Data.pdb
